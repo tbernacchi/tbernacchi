@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on SUSE;
+- 🔭 I’m currently working at SUSE;
 - 🌱 I’m currently learning all Rancher products related to Kubernetes;
 - 👯 I’m looking to collaborate here with my stuffs;
 - 💻 Linux, containers, configuration management, k8s, terraform;
