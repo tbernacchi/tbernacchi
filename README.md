@@ -1,7 +1,7 @@
 - 🔭 I’m a big fan of all open-source projects that's out there;
 - 👯 I’m looking to collaborate here with my stuffs;
-- 💻 Linux, containers, configuration management, k8s, terraform;
+- 💻 Linux, containers, Kubernetes, terraform;
 - 😄 Pronouns: He/Him;
-- ⚡ Fun fact: Sports, NBA (Boston Celtics), Corinthians;
-- ❤️ Love to see green messages on a black terminal 💻 😄
+- ⚡ Fun fact: Sports, NBA (Boston Celtics), Corinthians, MMA;
+- ❤️ Love to see green messages on a black terminal 💻 😄;
 - 💻 There is no tech out there that I can't learn and master over time!😄
