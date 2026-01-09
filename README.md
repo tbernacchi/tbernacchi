@@ -1,6 +1,6 @@
 - 🔭 I’m a big fan of all open-source projects that's out there;
-- 👯 I’m looking to collaborate here with my stuffs;
-- 💻 Linux, containers, Kubernetes, terraform;
+- 👯 I’m looking to collaborate here and share my work;
+- 💻 Linux, containers, Kubernetes, Terraform;
 - 😄 Pronouns: He/Him;
 - ⚡ Fun fact: Sports, NBA (Boston Celtics), Corinthians, MMA;
 - ❤️ Love to see green messages on a black terminal 💻 😄;
